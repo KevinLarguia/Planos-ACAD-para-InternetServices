@@ -6,7 +6,7 @@ Este repositorio contiene la documentación gráfica y técnica correspondiente 
 ## 🛠️ Herramientas de Diseño
 La documentación técnica fue generada originalmente utilizando herramientas de software CAD, siguiendo las normativas vigentes para el despliegue de telecomunicaciones en la vía pública.
 
----
+-----
 **Elaborado por:** Kevin Larguia.
 **Destino:** Internet Services SA. 
 **Ubicación:** Santa Fe, Argentina.
